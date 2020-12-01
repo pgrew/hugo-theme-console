@@ -67,7 +67,7 @@
 }
 
 .label {
-    font-family: var(--font-stack);
+    nt-family: var(--font-stack);
 }
 
 body {
@@ -158,14 +158,6 @@ figure {
     margin-bottom: 15px;
     margin-left: 60px;
     margin-right: 60px;
-}
-
-.footer {
-    clear: both;
-    margin-top: 100px;
-    padding-top: 10px;;
-    border-top: 1px solid var(--secondary-color);
-    color: var(--global-font-color);
 }
 
 .image-grid {
@@ -270,11 +262,5 @@ figure {
         font-weight: bold;
         padding-top: 3px;
         display: none;
-    }
-
-
-    .footer {
-        margin-top: 50px;
-        padding-top: 5px;;
     }
 }
